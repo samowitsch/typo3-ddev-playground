@@ -1,0 +1,42 @@
+{
+    "name": "samowitsch/typo3-ddev-unittests",
+    "description": "A starting project using ddev, TYPO3 v9 with unittesting capabilities.",
+    "type": "project",
+    "require": {
+        "php": "^7.2",
+        "typo3/minimal": "^9.5",
+        "helhum/typo3-console": "dev-master",
+        "typo3/cms-fluid-styled-content": "^9.5",
+        "typo3/cms-info": "^9.5",
+        "typo3/cms-tstemplate": "^9.5",
+        "fluidtypo3/flux": "^9.1",
+        "fluidtypo3/vhs": "^5.1",
+        "fluidtypo3/fluidpages": "^4.3",
+        "typo3/cms-form": "^9.5",
+        "typo3/cms-adminpanel": "dev-master",
+        "t3g/blog": "dev-master",
+        "typo3/cms-backend": "^9.5"
+    },
+    "require-dev": {
+        "typo3/testing-framework": "^4.9",
+        "friendsoftypo3/extension-builder": "dev-master",
+        "fluidtypo3/builder": "^1.2"
+    },
+    "extra": {
+        "typo3/cms": {
+            "cms-package-dir": "{$vendor-dir}/typo3/cms",
+            "web-dir": "public"
+        }
+    },
+    "config": {
+        "bin-dir": "bin",
+        "vendor-dir": "vendor",
+        "platform": {
+            "php": "7.2.8"
+        }
+    },
+    "authors": [{
+        "name": "Christian Sonntag",
+        "email": "pismo@web.de"
+    }]
+}
