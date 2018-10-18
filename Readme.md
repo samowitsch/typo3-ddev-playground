@@ -12,3 +12,4 @@ the PHPUnit [typo3/testing-framework](https://packagist.org/packages/typo3/testi
 * [setting up ddev (with docker) and TYPO3 installation with composer](readme/Readme-ddev.md)
 * [setting up PHPUnit with typo3/test-framework](readme/Readme-phpunit.md)
 * [ext:builder console command to create flux/fluidpages provider extension](readme/Readme-builder.md)
+* [some notes to ext:extension_builder and to custom extension](readme/Readme-extension_builder.md)
