@@ -98,4 +98,6 @@ configuration for [ext:blog](https://packagist.org/packages/t3g/blog) which also
 
 ![example output of phpunit in PHPStorm](images/example-phpunit-blog.png "ext:blog tests")
 
+![example output of phpunitexample in PHPStorm](images/example-phpunit-phpunitexample.png "ext:phpunitexample tests")
+
 [<- back](../Readme.md)

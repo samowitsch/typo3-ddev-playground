@@ -2,6 +2,12 @@
     "name": "samowitsch/typo3-ddev-unittests",
     "description": "A starting project using ddev, TYPO3 v9 with unittesting capabilities.",
     "type": "project",
+    "repositories": [
+      {
+        "type": "vcs",
+        "url":  "https://github.com/samowitsch/phpunitexample.git"
+      }
+    ],
     "require": {
         "php": "^7.2",
         "typo3/minimal": "^9.5",
@@ -15,7 +21,8 @@
         "typo3/cms-form": "^9.5",
         "typo3/cms-adminpanel": "dev-master",
         "t3g/blog": "dev-master",
-        "typo3/cms-backend": "^9.5"
+        "typo3/cms-backend": "^9.5",
+        "samowitsch/phpunitexample": "dev-master"
     },
     "require-dev": {
         "typo3/testing-framework": "^4.9",
