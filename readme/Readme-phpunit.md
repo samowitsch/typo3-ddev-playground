@@ -20,6 +20,7 @@
 
 # more TYPO3 PHPUnit links
 
+* [A simple example of unit testing with PHPUnit](https://github.com/drmonkeyninja/phpunit-simple-example)
 * [Unit Testing TYPO3](https://wiki.typo3.org/Unit_Testing_TYPO3)
 * [Handout for workshops on Test-driven Development with TYPO3 CMS (by Oliver Klee)](https://github.com/oliverklee/tdd-reader)
 * [Tea example (by Oliver Klee)](https://github.com/oliverklee/tea)

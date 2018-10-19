@@ -117,7 +117,7 @@ cli   	v1.2.0
     * docker-compose.yaml
 * **_$ ddev start_** to start local ddev vm
 * **_$ ddev ssh_** into vm
-* a file with name _FIRST INSTALL_ has to be created manually in the document root for the TYPO3 Installtool
+* a file with name _FIRST INSTALL_ has to be created manualy in the document root (the _public_ folder) for the TYPO3 Installtool
 * FE: http://ddev-test.ddev.local:8000
 * BE: http://ddev-test.ddev.local:8000/typo3
 * phpMyAdmin: http://ddev-test.ddev.local:8036
@@ -142,7 +142,7 @@ cli   	v1.2.0
 
 ![ddev console example](images/ddev-console.png "ddev console screenshot")
 
-## l    inks
+## links
 * https://github.com/drud/ddev
 * https://ddev.readthedocs.io/en/latest/
 
