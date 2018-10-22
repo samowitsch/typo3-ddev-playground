@@ -43,3 +43,7 @@ $ ddev start
 
 # open http://typo3-playground.ddev.local:8000
 ```
+
+## Known issues
+
+* ddev using nginx-fpm is not working properly using apache-fpm instead
