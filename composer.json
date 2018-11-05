@@ -31,7 +31,7 @@
     "require-dev": {
         "typo3/testing-framework": "^4.9",
         "friendsoftypo3/extension-builder": "dev-master",
-        "fluidtypo3/builder": "^1.2"
+        "fluidtypo3/builder": "dev-master"
     },
     "extra": {
         "typo3/cms": {
